@@ -231,6 +231,18 @@ var traders_data_items_new =
 	sell : 150,
 	trader : "Bandit Trader"
 }, {
+	item : "placeholder",
+	category : "Special Weapons",
+	buy : 1080000,
+	sell : 108000,
+	trader : "Bandit Trader"
+}, {
+	item : "placeholder",
+	category : "Ammunition",
+	buy : 108000,
+	sell : 10000,
+	trader : "Bandit Trader"
+}, {
 	item : "5Rnd_86x70_L115A1",
 	category : "Ammunition",
 	buy : 1200,
@@ -1164,6 +1176,18 @@ var traders_data_items_new =
 	category : "Ammunition",
 	buy : 300,
 	sell : 150,
+	trader : "Hero Trader"
+}, {
+	item : "placeholder",
+	category : "Special Weapon",
+	buy : 864000,
+	sell : 108000,
+	trader : "Hero Trader"
+}, {
+	item : "placeholder",
+	category : "Ammunition",
+	buy : 54000,
+	sell : 10000,
 	trader : "Hero Trader"
 }, {
 	item : "5Rnd_86x70_L115A1",
