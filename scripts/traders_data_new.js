@@ -264,12 +264,12 @@ var traders_data_items_new =
 	item : "UH1H_DZE",
 	category : "Helicopter Armed",
 	buy : 216000,
-	sell : 108000,
+	sell : 54000,
 	trader : "Bandit Trader"
 }, {
 	item : "Mi17_DZE",
 	category : "Helicopter Armed",
-	buy : 432000,
+	buy : 216000,
 	sell : 54000,
 	trader : "Bandit Trader"
 }, {
@@ -370,12 +370,6 @@ var traders_data_items_new =
 	trader : "Bandit Trader"
 }, {
 	item : "SCAR_H_LNG_Sniper_SD",
-	category : "Weapons",
-	buy : 36000,
-	sell : 9000,
-	trader : "Bandit Trader"
-}, {
-	item : "BAF_LRR_scoped",
 	category : "Weapons",
 	buy : 36000,
 	sell : 9000,
@@ -744,7 +738,7 @@ var traders_data_items_new =
 	item : "ItemSandbag",
 	category : "Building Supplies",
 	buy : 1800,
-	sell : 1800
+	sell : 900
 }, {
 	item : "ItemTankTrap",
 	category : "Building Supplies",
@@ -759,17 +753,17 @@ var traders_data_items_new =
 	item : "ItemVault",
 	category : "Building Supplies",
 	buy : 108000,
-	sell : 108000
+	sell : 54000
 }, {
 	item : "ItemWire",
 	category : "Building Supplies",
 	buy : 60,
-	sell : 60
+	sell : 30
 }, {
 	item : "30m_plot_kit",
 	category : "Building Supplies",
 	buy : 54000,
-	sell : 54000
+	sell : 27000
 }, {
 	item : "ItemCorrugated",
 	category : "Building Supplies",
@@ -2260,13 +2254,13 @@ var traders_data_items_new =
 }, {
 	item : "vil_SR25SD",
 	category : "DMR Variants",
-	buy : 20000,
-	sell : 10000
+	buy : 36000,
+	sell : 15000
 }, {
 	item : "vil_M110sd",
 	category : "DMR Variants",
-	buy : 20000,
-	sell : 10000
+	buy : 36000,
+	sell : 15000
 }, {
 	item : "vil_M21G",
 	category : "DMR Variants",
@@ -3425,8 +3419,8 @@ var traders_data_items_new =
 }, {
 	item : "BAF_LRR_scoped",
 	category : "Sniper Variants",
-	buy : 36000,
-	sell : 9000
+	buy : 67000,
+	sell : 18000
 }, {
 	item : "vil_G3a3",
 	category : "G3 Variants",
@@ -3664,7 +3658,7 @@ var traders_data_items_new =
 	sell : 150
 }, {
 	item : "RH_20Rnd_762x51_SD_hk417",
-	category : "Gun Ammo",
+	category : "Gun Ammo **NOT FOR SALE**",
 	buy : 240,
 	sell : 120
 }, {
