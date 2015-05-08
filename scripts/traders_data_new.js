@@ -1336,9 +1336,9 @@ var traders_data_items_new =
 }, {
 	item : "BAF_LRR_scoped",
 	category : "Weapons",
-	buy : 18000,
-	sell : 9000,
-	trader : "Hero Trader"
+	buy : 67000,
+	sell : 18000,
+	trader : "Normal"
 }, {
 	item : "FN_FAL",
 	category : "Weapons",
