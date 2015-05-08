@@ -1334,12 +1334,6 @@ var traders_data_items_new =
 	sell : 9000,
 	trader : "Hero Trader"
 }, {
-	item : "BAF_LRR_scoped",
-	category : "Weapons",
-	buy : 67000,
-	sell : 18000,
-	trader : "Normal"
-}, {
 	item : "FN_FAL",
 	category : "Weapons",
 	buy : 9000,
