@@ -231,13 +231,13 @@ var traders_data_items_new =
 	sell : 150,
 	trader : "Bandit Trader"
 }, {
-	item : "placeholder",
+	item : "M107_DZ",
 	category : "Special Weapons",
 	buy : 1080000,
 	sell : 108000,
 	trader : "Bandit Trader"
 }, {
-	item : "placeholder",
+	item : "10Rnd_127x99_m107",
 	category : "Ammunition",
 	buy : 108000,
 	sell : 10000,
@@ -1178,13 +1178,13 @@ var traders_data_items_new =
 	sell : 150,
 	trader : "Hero Trader"
 }, {
-	item : "placeholder",
-	category : "Special Weapon",
+	item : "M107_DZ",
+	category : "Special Weapons",
 	buy : 864000,
 	sell : 108000,
 	trader : "Hero Trader"
 }, {
-	item : "placeholder",
+	item : "10Rnd_127x99_m107",
 	category : "Ammunition",
 	buy : 54000,
 	sell : 10000,
