@@ -231,6 +231,18 @@ var traders_data_items_new =
 	sell : 150,
 	trader : "Bandit Trader"
 }, {
+	item : "BAF_LRR_scoped_w",
+	category : "Special Weapons",
+	buy : 324000,
+	sell : 108000,
+	trader : "Bandit Trader"
+}, {
+	item : "BAF_LRR_scoped_w",
+	category : "Special Weapons",
+	buy : 216000,
+	sell : 108000,
+	trader : "Hero Trader"
+}, {
 	item : "M107_DZ",
 	category : "Special Weapons",
 	buy : 1080000,
