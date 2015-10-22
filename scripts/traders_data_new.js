@@ -5032,11 +5032,6 @@ var traders_data_items_new =
 	buy : 12000,
 	sell : 6000
 }, {
-	item : "RPG7V",
-	category : "Special Weapons",
-	buy : 45000,
-	sell : 25000
-}, {
 	item : "MAAWS",
 	category : "Special Weapons",
 	buy : 45000,
