@@ -4996,7 +4996,7 @@ var traders_data_items_new =
 	category : "Special Weapons",
 	buy : 25000,
 	sell : 12500
-*}, {
+}, {
 *	item : "BAF_AS50_scoped_DZ",
 *	category : "Special Weapons",
 *	buy : 50000,
