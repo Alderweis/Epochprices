@@ -4892,21 +4892,6 @@ var traders_data_items_new =
 	buy : 3600,
 	sell : 1800
 }, {
-	item : "PG7V",
-	category : "Special Ammo",
-	buy : 5000,
-	sell : 2500
-}, {
-	item : "MAAWS_HEAT",
-	category : "Special Ammo",
-	buy : 5000,
-	sell : 2500
-}, {
-	item : "PipeBomb",
-	category : "Special Ammo",
-	buy : 50000,
-	sell : 10000
-}, {
 	item : "10Rnd_127x99_m107",
 	category : "Special Ammo",
 	buy : 1500,
